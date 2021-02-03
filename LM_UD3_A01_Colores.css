@@ -6,7 +6,70 @@ header {
   text-align: center;
 }
 
-.cuadrado {
+#container{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container2{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container3{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container4{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container5{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container6{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container7{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container8{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container9{
+  width: 100px; 
+  height: 100px; 
+  background: red;
+  padding: 10px;
+  margin: 10px;
+}
+#container10{
   width: 100px; 
   height: 100px; 
   background: red;
@@ -33,6 +96,7 @@ height: 10%;
 color: white;
 text-align: center;
 }
+
 #reloj { 
 width: 150px; 
 height: 30px; 
@@ -42,4 +106,74 @@ font: bold 1.5em dotum, "lucida sans", arial;
 text-align: center;
 float: right; 
 margin: 1em 3em 1em 1em; 
+}
+
+#button{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}
+#button2{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}
+#button3{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}
+#button4{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}
+#button5{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}
+#button6{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}
+#button7{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}
+#button8{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}
+#button9{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
+}#button10{
+  width: 120px; 
+  height: 120px; 
+  background-color: transparent;
+  padding: -5px;
+  margin: -10px;
 }
